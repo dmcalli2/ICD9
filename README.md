@@ -9,9 +9,9 @@ This is a problem for researchers (and others working with health data) from out
 
 Moreover, while wikipedia does appear to provide a list of codes and labels for the original ICD9 coding scheme (https://en.wikipedia.org/wiki/List_of_ICD-9_codes), this is not available as single text document, but rather as linked pages.  Moreover, the wikipedia "list of ICD9 codes" landing page does not clearly state that this list is the original ICD9, and not a modified version.
 
-Therefore, this repository has been created to provide a standalone text file [link to standalone file] showing codes and labels for ICD9, clearly labelled as the original unmodified version.
+Therefore, this repository has been created to provide [a standalone text file](icd9.csv) showing codes and labels for ICD9, clearly labelled as the original unmodified version.
 
 ## Mapping from ICD9-CM to ICD9.
 
-Some researchers may wish to map from ICD9CM to ICD9. This is not straightforward as the addition of extra codes with additional detail will likely change the usage of existing codes within a system. Moreover, while ICD9-CM modifications generally appear to involve the addition of an extra digit, it is not straightforward to simply remove this extra digit as the file [link to file] shows.
+Some researchers may wish to map from ICD9CM to ICD9. This is not straightforward as the addition of extra codes with additional detail will likely change the usage of existing codes within a system. Moreover, while ICD9-CM modifications generally appear to involve the addition of an extra digit, it is not straightforward to simply remove this extra digit as  [this file](Differences_icd9_icd9cm.md) shows.
 

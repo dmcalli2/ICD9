@@ -1,2 +1,17 @@
 # ICD9
-Unmodified ICD9 as was used in countries not using ICD9-CM or ICD9-AM.
+
+NOT FINALISED YET. PLEASE IGNORE THIS REPOSITORY UNTIL THIS TEXT IS REMOVED.
+
+## Reason for this repository
+There are a number of websites purporting to hold copies of ICD9. However, most, if not all of these are for one of the ICD9 modifications (eg ICD9-CM or ICD9-AM); **Not** the original version created by the WHO.
+
+This is a problem for researchers (and others working with health data) from outside the US and Canada, who have been misled by these files and look-up tools for ICD9-CM (or ICD9-AM).
+
+Moreover, while wikipedia does appear to provide a list of codes and labels for the original ICD9 coding scheme (https://en.wikipedia.org/wiki/List_of_ICD-9_codes), this is not available as single text document, but rather as linked pages.  Moreover, the wikipedia "list of ICD9 codes" landing page does not clearly state that this list is the original ICD9, and not a modified version.
+
+Therefore, this repository has been created to provide a standalone text file [link to standalone file] showing codes and labels for ICD9, clearly labelled as the original unmodified version.
+
+## Mapping from ICD9-CM to ICD9.
+
+Some researchers may wish to map from ICD9CM to ICD9. This is not straightforward as the addition of extra codes with additional detail will likely change the usage of existing codes within a system. Moreover, while ICD9-CM modifications generally appear to involve the addition of an extra digit, it is not straightforward to simply remove this extra digit as the file [link to file] shows.
+

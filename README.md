@@ -1,7 +1,5 @@
 # ICD9
 
-NOT FINALISED YET. PLEASE IGNORE THIS REPOSITORY UNTIL THIS TEXT IS REMOVED.
-
 ## Reason for this repository
 There are a number of websites purporting to hold copies of ICD9 (for example http://www.wolfbane.com/icd/index.html). However, most, if not all of these are for one of the ICD9 modifications (eg ICD9-CM or ICD9-AM), and **not** the original version created by the WHO. Others (such as http://icd9.chrisendres.com/ make it clear that they are using another version of ICD9.
 

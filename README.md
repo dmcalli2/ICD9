@@ -1,7 +1,7 @@
 # ICD9
 
 ## Reason for this repository
-There are a number of websites purporting to hold copies of ICD9 (for example http://www.wolfbane.com/icd/index.html). However, most, if not all of these are for one of the ICD9 modifications (eg ICD9-CM or ICD9-AM), and **not** the original version created by the WHO. Others (such as http://icd9.chrisendres.com/ make it clear that they are using another version of ICD9.
+There are a number of websites purporting to hold copies of ICD9. However, most, if not all of these are for one of the ICD9 modifications (eg ICD9-CM or ICD9-AM), and **not** the original version created by the WHO (for example http://www.wolfbane.com/icd/index.html). Others (such as http://icd9.chrisendres.com/) make it clear that they are using another version of ICD9.
 
 This is a problem for researchers (and others working with health data) from outside the US and Canada, who may mistake files and look-up tools for ICD9-CM (or ICD9-AM) for the original WHO ICD9 codelist.
 
